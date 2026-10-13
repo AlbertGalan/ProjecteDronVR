@@ -1,6 +1,7 @@
 # ProjecteDronVR
 Projecte per controlar un dron DJITello amb un script de python i connectar-ho a unity per poder-ho manejar íntegrament desde allà.
-<img src="https://storage.ghost.io/c/66/89/6689e62f-4e74-478c-9d84-2eac176b3d5d/content/images/2025/07/b01_tello-livo_dji_opt.png" width="200">
+
+<img src="https://storage.ghost.io/c/66/89/6689e62f-4e74-478c-9d84-2eac176b3d5d/content/images/2025/07/b01_tello-livo_dji_opt.png" width="300">
 
 Per poder connectar el dron a unity, primer s'ha d'executar el script de python, que farà de servidor i connexió per lo que asignarà un port, que escoltarà unity, I un port de video, per mostrar la camera desde unity.
 
